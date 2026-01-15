@@ -1,0 +1,14 @@
+C:\Users\akosi\OneDrive\Desktop\2025Prog\c# full course\variables\bin\Debug\net10.0\variables.exe
+C:\Users\akosi\OneDrive\Desktop\2025Prog\c# full course\variables\bin\Debug\net10.0\variables.deps.json
+C:\Users\akosi\OneDrive\Desktop\2025Prog\c# full course\variables\bin\Debug\net10.0\variables.runtimeconfig.json
+C:\Users\akosi\OneDrive\Desktop\2025Prog\c# full course\variables\bin\Debug\net10.0\variables.dll
+C:\Users\akosi\OneDrive\Desktop\2025Prog\c# full course\variables\bin\Debug\net10.0\variables.pdb
+C:\Users\akosi\OneDrive\Desktop\2025Prog\c# full course\variables\obj\Debug\net10.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosi\OneDrive\Desktop\2025Prog\c# full course\variables\obj\Debug\net10.0\variables.AssemblyInfoInputs.cache
+C:\Users\akosi\OneDrive\Desktop\2025Prog\c# full course\variables\obj\Debug\net10.0\variables.AssemblyInfo.cs
+C:\Users\akosi\OneDrive\Desktop\2025Prog\c# full course\variables\obj\Debug\net10.0\variables.csproj.CoreCompileInputs.cache
+C:\Users\akosi\OneDrive\Desktop\2025Prog\c# full course\variables\obj\Debug\net10.0\variables.dll
+C:\Users\akosi\OneDrive\Desktop\2025Prog\c# full course\variables\obj\Debug\net10.0\refint\variables.dll
+C:\Users\akosi\OneDrive\Desktop\2025Prog\c# full course\variables\obj\Debug\net10.0\variables.pdb
+C:\Users\akosi\OneDrive\Desktop\2025Prog\c# full course\variables\obj\Debug\net10.0\variables.genruntimeconfig.cache
+C:\Users\akosi\OneDrive\Desktop\2025Prog\c# full course\variables\obj\Debug\net10.0\ref\variables.dll
